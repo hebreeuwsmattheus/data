@@ -1,4 +1,4 @@
-De spelling van Jeshu is terug te vinden in Talmud-literatuur.
+Dit vers is een typisch Hebreeuwse schrijfwijze, zoals ook in Gen. 5 en Ruth 4:18-22.
 
 Abraham: Avráhám, vader van vele volkeren
 Izak: Jitsàq, hij lacht
@@ -7,20 +7,23 @@ Juda: Jêhoedáh, JAHWEH zal geprezen worden
 
 Perez: Perets, breuk
 Zerah: Zeràch, lichtglans
+Tamar: Támár, palmboom, een Filistijnse
 Hezron: Chètsron, omsloten
 Aram: Rám, verheven
 
 Aminadab: Amminádáv, mijn verwant is vrijgevig
 Nahesson: Náchson, slang
+Salmon: Sàlmon, kleed of vonk
 
-Rachab: Rácháv, breed uitgestrekt
-Obed: Oveed, dienaar
-Ruth: Roeth, metgezellin(?)
+Boaz: Bo’àz, in hem is mijn sterkte
+Rachab: Rácháv, breed uitgestrekt, een Kanaänitische 
+Obed: Ovéd, dienaar
+Ruth: Roeth, metgezellin(?), een Moabitische
 Isaï: Isàj, Hij is mijn JAHWEH
 
 David: Dávied, beminde
 Salomo: Shêlomoh, rijk aan vrede
-Uria: Oeri-Jah, Licht is mijn JAHWEH
+Uria: Oeri-JAH, Licht is mijn JAHWEH, een Hethiet
 
 Rehabeam: Rêchav’ám, uitgebreid is het volk
 Abia: Avi-JAH, vader is JAHWEH
@@ -30,7 +33,7 @@ Josafat: Jêhoshaphat, JAHWEH richt
 Joram: Jorám of Jêhorám, JAHWEH is verheven
 DuTillet wordt יוֹרָם als יְהוֹרָם geschreven 
 Uzzia: Ozi-JAH, sterkte is JAHWEH
-In 1 Kron. 3:12 wordt Uzzia Ahazia genoemd
+In 1 Kron. 3:12 wordt Uzzia Azaria genoemd
 
 Jotham: Jotám, JAHWEH is volmaakt
 Achaz: Acház, Hij houdt vast
@@ -41,13 +44,14 @@ Amon, betrouwbaar
 Josia: Josi-JAH, JAHWEH schraagt
 
 Jechonia: Jêchán-JAH, JAHWEH bevestigt
+Babel: Bávèl, verwarring (van talen)
 
 Sealthiël: Shê’àlti’èl, ik heb God gevraagd
 Zerubbabel: ZêruvBávèl, zaad van Babel
 
 Abihud: Avihoed, vader is majesteit
 Abner: vader is lamp 
-In Griekse en Aramese handschriften ontbreekt de naam Abner
+In Textus Receptus ontbreekt de naam Abner
 Eljakim of Elkim, God zal bevestigen 
 DuTillet wordt אֶקִים als אֶלְיָקִים geschreven 
 
@@ -59,13 +63,14 @@ Eliud: Elihoed, God is majesteit
 Eleazar: Elázár, God heeft geholpen
 Matthan: Màttán, gave (van God) 
 
-Jozef: Joséph, Jahweh voege bij
-Mirjam, weerspannige (?)
-Jeshua: Jéshoe’à, JAHWEH is verlossing
+Jozef: Joséph of Jêhoséph, JAHWEH voege bij
+Mirjam, weerspannige(?)
+Jeshua: Jéshoe’à of Jéhoshoe’a, JAHWEH is verlossing
 Messias: Máshiàch, gezalfd
 Vreemde taal: Grieks
 
-Drie koningen van Juda ontbreken, zie 1 Kron. 3:11-12, maar er zijn drie vrouwen bij name genoemd
+Vier koningen van Juda ontbreken, zie 1 Kron. 3:11-12 en 15: Ahazia, Joas, Amazia en Jojakim  
+Er worden vier vrouwen bij name genoemd: Tamar, Rachab, Ruth en Mirjam. Dan is er nog de vrouw van Uria: Batseba (dochter van de eed). Het noemen van namen van vrouwen in een Hebreeuws geslachtsregister is ongebruikelijk.
 
 Samengekomen, letterlijk: seksueel bekennen of gemeenschap hebben
 DuTillet wordt ‘zij bedekt werd met’ geschreven als נִמְצָאָה הָרָה wat vertaald kan worden als ‘zij zwanger werd bevonden door’
@@ -77,16 +82,16 @@ Beraamde, letterlijk: denkend beramen
 Letterlijk ‘dat is van’ is ‘dat zij is bedekt’, zie ook vers 18
 
 Er is woordverband tussen de naam ‘Jeshua’ (Jéshoe’à), dat is ‘JAHWEH is verlossing’, en het woord ‘verlossen’: יֵשׁוּעַ (Jê’oshi’à)
-In Griekse en het DuTillet-handschrift staat ‘Zijn volk’ in plaats van ‘Mijn volk’, het verschil tussen een waav (ו) en jod (י)
-In Griekse en Aramese handschriften ontbreekt het woord ‘alle’ (מְכֹּל)
+In Textus Receptus en DuTillet staat ‘Zijn volk’ in plaats van ‘Mijn volk’, het verschil tussen een waav (ו) en jod (י)
+In Textus Receptus ontbreekt het woord ‘alle’ (מְכֹּל)
 
-In Griekse en Aramese handschriften ontbreekt het woord ‘mond’ (פִּי) en de Naam van God
-Jesaja: Jêshà’-JAH, JAHWEH is (mijn) heil, de naam die ontbreekt in Griekse en Aramese handschriften
+In Textus Receptus ontbreekt het woord ‘mond’ (פִּי)
+Jesaja: Jêshà’-JAH of Jêshà-JAHU, JAHWEH is (mijn) heil, de naam die ontbreekt in Textus Receptus
 
 Citaat uit Jesaja 7:14
-In Griekse en Aramese wordt voor ‘huwbare vrouw’ ‘maagd’ gebruikt, in het Hebreeuws is dat een ander woord: בְּתוּלָה (bêtoeláh)
+In Textus Receptus wordt voor ‘huwbare vrouw’ ‘maagd’ gebruikt, in het Hebreeuws is dat een ander woord: בְּתוּלָה (bêtoeláh)
 Er is woordverband tussen ‘mijn volk’: עַמִּי (àmi) en de naam ‘Immanuël’: עִמָּנוּאֵל (Immànie’èl).
-Godheid, de Hebreeuwse meervoudsvorm van God. De schrijfwijze hier אֱלֹקִים wijkt af van het gebruikelijke אֱלֹהִים.
+God, in het Hebreeuws in het  meervoud, de schrijfwijze hier אֱלֹקִים wijkt af van het gebruikelijke אֱלֹהִים.
 
-
+De term ‘Engel van JAHWEH’ wordt gezien als verschijning van Jeshua de Messias. Teksten die daarvan getuigen zijn bijvoorbeeld: Richt. 13:18 en Jes. 9:5.
 
