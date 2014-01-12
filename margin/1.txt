@@ -1,5 +1,6 @@
 1.
 Dit vers is een typisch Hebreeuwse schrijfwijze, zoals ook in Gen. 5 en Ruth 4:18-22.
+‘dit is’ in Münster staat: ‘Het tellen van’
 
 2.
 Abraham: Avráhám, vader van vele volkeren
@@ -46,18 +47,19 @@ In 1 Kron. 3:12 wordt Uzzia Azaria genoemd
 9.
 Jotham: Jotám, JAHWEH is volmaakt
 Achaz: Acház, Hij houdt vast
-Hizkia: Chizqi-JAH, sterkte is JAHWEH
+Hizkia: Chizqi-JAH of Chizqi-JAHU, sterkte is JAHWEH
 
 10.
 Manasse: Mênàshèh, doende vergeten
 Amon, betrouwbaar
-Josia: Josi-JAH, JAHWEH schraagt
+Josia: Josi-JAH of Josi-JAHU, JAHWEH schraagt
 
 11.
 Jechonia: Jêchán-JAH, JAHWEH bevestigt
 Babel: Bávèl, verwarring (van talen)
 
 12.
+‘gevestigd’, letterlijk: ‘etsen’ en ‘graveren’
 Sealthiël: Shê’àlti’èl, ik heb God gevraagd
 Zerubbabel: ZêruvBávèl, zaad van Babel
 
@@ -65,8 +67,7 @@ Zerubbabel: ZêruvBávèl, zaad van Babel
 Abihud: Avihoed, vader is majesteit
 Abner: vader is lamp 
 In Textus Receptus ontbreekt de naam Abner
-Eljakim of Elkim, God zal bevestigen 
-DuTillet wordt אֶקִים als אֶלְיָקִים geschreven 
+Eljakim of Elkim, God zal bevestigen, in DuTillet en Münster wordt אֶקִים als אֶלְיָקִים geschreven 
 
 14.
 Azor: Azzoer, geholpen
