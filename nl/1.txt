@@ -53,14 +53,14 @@ En nadat hij gevestigd was in Babel verwerkte Jechonia Sealthiël.
 En Sealthiël verwekte Zerubbabel.
 
 13.
-En Zerubbabel verwekte Abihud.
-En Abihud verwekte Eljakim.
+En Zerubbabel verwekte Abihud. 
+En Abihud verwekte Eljakim. 
+En Eljakim verwekte Azor.
 
 14.
-En Eljakim verwekte Azor.
 En Azor verwekte Zadok.
-En Zadok verwekte Amnon.
-En Amnon verwekte Eliud.
+En Zadok verwekte Akim.
+En Akim verwekte Eliud.
 
 15.
 En Eliud verwekte Eleazar.
