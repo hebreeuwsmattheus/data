@@ -5,20 +5,20 @@ In DuTillet en Münster staat dit vers als volgt: ‘En toen Jesjoea de menigte 
 ‘en Hij sprak’, in DuTillet en Münster staat: ‘en Hij leerde’
 
 3.
-‘gezegend’ kan ook vertaald worden als: ‘gelukkig prijzen’, het Griekse woord hiervoor is: makarios (μακάριος).
+‘voorspoedig’ kan ook vertaald worden als: ‘gelukkig prijzen’, het Griekse woord hiervoor is: makarios (μακάριος).
 ‘nederigen van geest’, in DuTillet en Münster staat: ‘armen van de geest’, hierbij is het woord ‘arm’ bedoeld als: zonder bezit
 
 4.
-In DuTillet en Münster staat dit vers als volgt: ‘Gezegend zijn die rouwen, want zij worden getroost’
+In DuTillet en Münster staat dit vers als volgt: ‘Voorspoedig zijn die rouwen, want zij worden getroost’
 
 5.
-In DuTillet en Münster staat dit vers als volgt: ‘Gezegend zijn de zachtmoedigen, want zij verzorgen de aarde.’
+In DuTillet en Münster staat dit vers als volgt: ‘voorspoedig zijn de zachtmoedigen, want zij verzorgen de aarde.’
 
 6.
-Dit vers ontbreekt in Shem Tov, in DuTillet en Münster staat: ‘Gezegend zijn de hongerigen en dorstigen naar rechtvaardigheid, want zij zullen verzadigd worden’
+Dit vers ontbreekt in Shem Tov, in DuTillet en Münster staat: ‘Voorspoedig zijn de hongerigen en dorstigen naar rechtvaardigheid, want zij zullen verzadigd worden’
 
 7.
-Dit vers ontbreekt in Shem Tov, in DuTillet en Münster staat: ‘Gezegend zijn de barmhartigen, want aan hen zal barmhartigheid geschieden’
+Dit vers ontbreekt in Shem Tov, in DuTillet en Münster staat: ‘Voorspoedig zijn de barmhartigen, want aan hen zal barmhartigheid geschieden’
 
 8.
 ‘rein zijn’ kan ook vertaald worden als: ‘onschuldig’, in DuTillet en Münster staat een woord (בָרֵי) dat ook vertaald kan worden als: ‘zuiver’.
@@ -31,7 +31,7 @@ Dit vers ontbreekt in Shem Tov, in DuTillet en Münster staat: ‘Gezegend zijn 
 ‘om de gerechtigheid’, in DuTillet en Münster staat: ‘over het pad van de gerechtigheid gaan’
 
 11.
-In DuTillet en Münster staat dit vers als volgt: ‘Gezegend zijn jullie wanneer de mannen u vervloeken en jullie vervolgen en allerlei narigheid over jullie vertellen, omwille van Mij.’
+In DuTillet en Münster staat dit vers als volgt: ‘Voorspoedig zijn jullie wanneer de mannen u vervloeken en jullie vervolgen en allerlei narigheid over jullie vertellen, omwille van Mij.’
 
 12.
 In DuTillet en Münster staat dit vers als volgt: ‘Verheug u en juich, want jullie loon, deze is groot, is in de hemelen, want op die manier zijn de profeten voor u vervolgd.’
@@ -44,8 +44,9 @@ In DuTillet en Münster staat dit vers als volgt: ‘Zie, jullie zijn een licht 
 
 15.
 ‘in een verborgen plaats, waar deze niet kan schijnen’, in DuTillet en Münster staat: ‘onder een schepel’, een schepel is een inhoudsmaat voor droge goederen en komt overeen met ca. 12 liter.
-‘m'norah’, dat is een zevenarmige kandelaar.
+‘m<sup>e</sup>norah’, dat is een zevenarmige kandelaar.
 ‘zonen van het huis’, in DuTillet en Münster staat: ‘zij die in het huis zijn’.
+Er is woordverband tussen ‘zonen’ (b<sup>e</sup>né) en ‘het huis’ (habajit)
 
 16.
 ‘alle mensen’, in DuTillet en Münster staat: ‘zonen van de mensen’
@@ -63,11 +64,11 @@ In DuTillet en Münster staat dit vers als volgt: ‘Zie, jullie zijn een licht 
 In DuTillet en Münster staat dit vers als volgt: ‘Amen en waarachtig zeg Ik tot jullie: want tot aan de hemelen en de aarde voorbijgaan, niet één jod en één steek van de Torah zal voorbijgaan, tot aan alles vervuld is.’
 
 19.
-In DuTillet en Münster staat dit vers als volgt: ‘Maar wie één van deze geboden buiten werking stelt en deze leert aan de zonen van de mensen, deze wordt klein genoemd in het Koninkrijk van de Hemelen’, de Münster voegt eraan toe: ‘Maar hij die alles doet en leert de vermaningen, deze zal groot zijn in het Koninkrijk van de Hemelen.’
+In DuTillet en Münster staat dit vers als volgt: ‘Maar wie één van deze geboden buiten werking stelt en deze leert aan de zonen van de mensen, deze wordt klein genoemd in het Koninkrijk der Hemelen’, de Münster voegt eraan toe: ‘Maar hij die alles doet en leert de vermaningen, deze zal groot zijn in het Koninkrijk der Hemelen.’
 
 20.
 ‘jullie gerechtigheid’ is een typisch Hebreeuws gezegde, wat betekent: ‘jullie liefdadigheid’ en ‘jullie naastenliefde’, zie 2 Kor. 9:6-9
-In DuTillet en Münster staat dit vers als volgt: ‘Maar ik zeg tot jullie: als jullie gerechtigheid niet overvloediger is dan de gerechtigheid van de P’roesjiem en de schriftgeleerden, u zult niet komen in het Koninkrijk van de Hemelen.’
+In DuTillet en Münster staat dit vers als volgt: ‘Maar ik zeg tot jullie: als jullie gerechtigheid niet overvloediger is dan de gerechtigheid van de P<sup>e</sup>roesjiem en de schriftgeleerden, u zult niet komen in het Koninkrijk der Hemelen.’
 
 21.
 ‘de ouden’, dat zijn de voorvaderen die de Torah ontvingen en doorgaven volgens Deut. 4:9, 6:7 en 11:19
@@ -79,10 +80,12 @@ In DuTillet en Münster staat dit vers als volgt: ‘Maar ik zeg tot jullie: als
 ‘dal van Hinom’ wordt in de Peshitta genoemd: ‘ghihanā’, in het Grieks: ‘ghehenna’ (γέεννα), maar volgens Jer. 19:2-6 wordt dit dal genoemd: ‘moorddal’ of ‘dal van slachting’
 
 23.
-‘een offergave doet naderen’, letterlijk: ‘een nadering doen naderen’
+Er is woordverband tussen ‘nadering’ (qorbancha) en ‘doet naderen’ (taqriev).
+‘nadering’, dat is een offergave
 In DuTillet en Münster staat dit vers als volgt: ‘En indien u een offergave doet naderen tot het altaar, maar daar herinnert u dat er iets is dat uw broer tegen u heeft,’
 
 24.
+Er is woordverband tussen ‘uw nadering1,2’ (qorbanecha) en ‘doet … naderen’ (haqráv).
 ‘eerst’, letterlijk: ‘voor’, ‘voordat’ of ‘voorheen’, in DuTillet en Münster staat: ‘eerst’ (תְּחִלָּה)
 ‘behagen te vinden in hem’, ‘hem’ dat is ‘uw metgezel’ in vers 23, in DuTillet en Münster staat: ‘verzoen eerst voor het aangezicht van uw broer’
 
@@ -94,7 +97,7 @@ In DuTillet en Münster staat dit vers als volgt: ‘Weest spoedig welgezind tot
 26.
 ‘in waarheid’, in DuTillet en Münster staat: ‘amen’
 ‘teruggegeven’ in DuTillet en Münster staat: ‘terugbetalen’, ‘vergelden’ of ‘vergoeden’
-‘P'roetah’, dat is de kleinste munteenheid in het land Israël rond de eerste eeuw van de gangbare jaartelling, in DuTillet en Münster staat: ‘kwadrant’ dat is de kleinste munteenheid in het Romeinse Rijk
+‘P<sup>e</sup>roetah’, dat is de kleinste munteenheid in het land Jisraeel rond de eerste eeuw van de gangbare jaartelling, in DuTillet en Münster staat: ‘kwadrant’ dat is de kleinste munteenheid in het Romeinse Rijk
 
 27.
 ‘u zult geen overspel plegen’, dit is een citaat uit Ex. 20:14 en Deut. 5:18, dit kan ook vertaald worden als: ‘u zult niet echtbreken’
@@ -120,7 +123,7 @@ De Torah over het huwelijk is te lezen in Lev. 18:1-30 en Lev. 20:10-23.
 
 33.
 ‘maar u zult geen valse eed afleggen in Mijn Naam’ is gedeeltelijk geciteerd uit Lev. 19:12
-‘maar u zult terugbrengen tot JAHWEH uw eed’, in DuTillet en Münster staat: ‘maar al uw geloften zult u voldoen aan JAHWEH’
+‘maar u zult terugbrengen tot JHWH uw eed’, in DuTillet en Münster staat: ‘maar al uw geloften zult u voldoen aan JHWH’
 
 34.
 ‘om niet vals te zweren bij het geven van antwoord’, in Münster staat: ‘u zult niet zweren, op geen enkele manier’
@@ -137,7 +140,7 @@ In DuTillet staat dit vers als volgt: ‘en zweert niet bij uw hoofd, aangezien 
 ‘wordt toegevoegd’ in DuTillet en Münster staat: ‘de rest’ of ‘een voordeel boven’
 
 38.
-‘oog voor oog en tand voor tand’ is gedeeltelijk geciteerd uit Ex. 21:24, letterlijk: ‘oog in van plaats een oog en tand in plaats van een tand’
+‘een oog in plaats van een oog, en een tand in plaats van een tand’ is gedeeltelijk geciteerd uit Ex. 21:24
 
 39.
 ‘om niet kwaad voor kwaad te vergelden’, in Dutillet en Münster staat: ‘u zult staan tegen de kwade’
