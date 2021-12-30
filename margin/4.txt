@@ -1,6 +1,6 @@
 1.
 ‘door de Heilige Geest’, in DuTillet en Münster staat: ‘door de hand van de Geest’
-‘naar de woestijn’, in DuTillet staat: ‘in de woestijn van J'hoedah’
+‘naar de woestijn’, in DuTillet staat: ‘in de woestijn van J<sup>e</sup>hoedah’
 ‘tot het verzoeken’, in DuTillet en Münster staat: ‘om verzocht te worden’
 ‘de satan’, letterlijk: de tegenstander. 
 
@@ -13,10 +13,10 @@ In Ex. 34:28 wordt verteld dat Mosjeh veertig dagen en veertig nachten vastte en
 
 4.
 Citaat uit Deuteronomium 8:3, deze tekst staat in de context van de oproep tot gehoorzaamheid
-‘de mond van JAHWEH’, DuTillet voegt toe: ‘zal de mens leven’, zoals in Deut. 8:3
+‘de mond van JHWH’, DuTillet voegt toe: ‘zal de mens leven’, zoals in Deut. 8:3
 
 5.
-‘Heilige Stad’, dat is J’roesjalajiem
+‘Heilige Stad’, dat is J<sup>e</sup>roesjalajiem
 ‘Heiligdom’, dat is de Tempel
 ‘hoog boven Heiligdom’, in DuTillet en Münster staat: ‘op de hoek van het Heiligdom’
 
@@ -38,35 +38,35 @@ Citaat uit Deuteronomium 6:16
 10.
 Komt uit Deuteronomium 6:13 en 10:20.
 Vreemde taal: Grieks
-‘bid tot JAHWEH en vereer Hem alleen’, in DuTillet en Münster staat: Betuig JAHWEH, uw Elohiem, eer en dient Hem alleen’
+‘bid tot JHWH en vereer Hem alleen’, in DuTillet en Münster staat: Betuig JHWH, uw Elohiem, eer en dient Hem alleen’
 
 11.
 ‘achterlaten’, kan ook vertaald worden met ‘in de steek laten’.
 
 12.
-Er is woordverband tussen ‘overgeleverd’ (nimsàr) en ‘in de gevangenis’ (b’mà’àsár)
+Er is woordverband tussen ‘overgeleverd’ (nimsàr) en ‘in de gevangenis’ (b<sup>e</sup>mà’àsár)
 ‘overgeleverd was in de gevangenis’, in DuTillet en Münster staat: ‘binden’ of ‘vastmaken’
 
 13.
-‘Maar Hij ging Natsrat voorbij en ging wonen’ in DuTillet en Münster staat: ‘Maar Hij liet Natsrat achter zich, reisde door en ging wonen’
-K’phar-Nachoem: (Kapernaüm) dorp van Nachoem (Nahum)
+‘Maar Hij ging Nazaret voorbij en ging wonen’ in DuTillet en Münster staat: ‘Maar Hij liet Natsrat achter zich, reisde door en ging wonen’
+K<sup>e</sup>phar-Nachoem: (Kapernaüm) dorp van Nachoem (Nahum)
 ‘in het grensgebied’, in DuTillet en Münster staat: ‘stad aan de zee, in het grensgebied’
 ‘Maritima’, betekent: ‘aan de zee’ en komt ook voor in de Vulgata
 Vreemde taal: Latijn
-Z’voelon: (Zebulon) woning, in DuTillet, Münster, Peshitta en Griekse handschriften is toegevoegd: Naphtali: (Naftali) worstelaar of mijn strijd
+Z<sup>e</sup>voelon: (Zebulon) woning, in DuTillet, Münster, Peshitta en Griekse handschriften is toegevoegd: Naphtali: (Naftali) worstelaar of mijn strijd
 
 14.
-‘wat J'sjaJAH, de profeet zei’, in DuTillet en Münster staat: ‘wat gezegd is over de mond van J'sjaJAH, de profeet, dit woord’
+‘wat J<sup>e</sup>sjaJAH, de profeet zei’, in DuTillet en Münster staat: ‘wat gezegd is over de mond van J<sup>e</sup>sjaJAH, de profeet, dit woord’
 
 15.
-Citaat uit Jesaja 8:23, in het citaat missen de woorden: ‘opdat het later belangrijk wordt’ na ‘land van Z’voelon en land van Naphtali’
-‘Ghaliel’ kan ook vertaald worden als: landstreek.
+Citaat uit Jesaja 8:23, in het citaat missen de woorden: ‘opdat het later belangrijk wordt’ na ‘land van Z<sup>e</sup>voelon en land van Naphtali’
+‘Ghaliel’ kan ook vertaald worden als: landstreek
 
 16.
 Citaat uit Jesaja 9:1
 
 17.
-‘van hier’, dat is K’phar-Nachoem zie vers 13, in DuTillet staat: ‘en toen’, in Münster staat: ‘en hiervandaan’.
+‘van hier’, dat is K<sup>e</sup>phar-Nachoem zie vers 13, in DuTillet staat: ‘en toen’, in Münster staat: ‘en hiervandaan’.
 ‘tot het spreken’, in DuTillet en Münster staat: ‘tot het oproepen door te zeggen:’
 
 18.
@@ -77,7 +77,7 @@ Andreah (Andreas) dapper, een Griekse naam
 ‘zij waren vissers’, in DuTillet en Münster staat: ‘omdat zij vissers waren’
 
 19.
-‘van mannen’, in DuTillet staat: ‘van de mannen’, in Münster staat: ‘van de mens’
+‘van stervelingen’, in DuTillet staat: ‘van de stervelingen’, in Münster staat: ‘van de mens’
 
 20.
 In DuTillet en Münster staat dit vers als volgt: ‘En zij lieten hun handen af en lieten achter de netten en volgden achter Hem.’
